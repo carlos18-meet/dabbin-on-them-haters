@@ -1,0 +1,18 @@
+h1.uppercase {
+	font-size: 50px;
+	text-transform: uppercase;
+
+
+}
+
+p {
+	align-content: center;
+	background-color: blue;
+
+}
+
+img {
+	height: 30%;
+	border-right: 25px;
+	width:30%;
+}
